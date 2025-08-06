@@ -7,6 +7,7 @@ const LandingPageText = () => {
     "when the deal is real",
     "after the work is done",
     "when it’s safe to move",
+     "when it’s safe to move",
   ];
 
   const [index, setIndex] = useState(0);
