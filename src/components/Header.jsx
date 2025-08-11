@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="bg-[#0A2540]  p-6 m-15 mx-30 rounded-md ">
+    <div className="bg-[#0A2540]  p-5 m-15 mx-30 rounded-md ">
       <nav className="flex justify-between mx-40 items-center">
         <picture className="">
           <h2 className=" text-white">LOGO</h2>
